@@ -1,1 +1,1 @@
-# Sensor-Programs
+# DHT Temperature Humidity Sensor Test sketch
